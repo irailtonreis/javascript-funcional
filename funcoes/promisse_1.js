@@ -1,4 +1,4 @@
-const primeiroElemento = arrayOuString => arrayOuString.toLowerCase()
+const primeiroElemento = arrayOuString => arrayOuString[0]
 const letraMinuscula = letra => letra.toLowerCase()
 const primeiraLetra = string =>string[0]
 
